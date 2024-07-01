@@ -10,7 +10,7 @@
 ```powershell
 py -m venv .venv
 ./.venv/Scripts/Activate.ps1
-pip install -r requirements.txt
+pip install Flask Flask-Cors numpy pillow python-dotenv pywin32 qrcode
 ```
 
 ### 設定方法
